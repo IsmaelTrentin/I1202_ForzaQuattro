@@ -11,5 +11,5 @@ Responsabili implementazione:
 
 ## Specifiche 
 
-Vedi ![specs](./ForzaQuattro_I1C_SA2024.pdf)
+Vedi [specs](./ForzaQuattro_I1C_SA2024.pdf)
 
